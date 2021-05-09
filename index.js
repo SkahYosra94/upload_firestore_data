@@ -63,8 +63,11 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.49791185100462,
-      "longitude": 5.428181787218768
+      "location":{
+        "latitude": 43.49791185100462,
+        "longitude": 5.428181787218768
+      }
+      
 
 
     },
@@ -95,8 +98,10 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.478064425146925,
-      "longitude": 5.4217484764493955,
+      "location":{
+        "latitude": 43.478064425146925,
+        "longitude": 5.4217484764493955,
+      } 
 
 
     },
@@ -122,8 +127,11 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": null,
-      "longitude": null
+      "location":{
+        "latitude": null,
+        "longitude": null
+      }
+      
 
     }
     ,
@@ -146,10 +154,10 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.49791185100462,
-      "longitude": 5.428181787218768
-
-
+      "location":{
+        "latitude": 43.49791185100462,
+        "longitude": 5.428181787218768
+      }
     },
     "driverName": "Théo F.",
     "driverPhone": "123 456 789",
@@ -173,8 +181,10 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.49791185100462,
-      "longitude": 5.428181787218768
+      "location":{
+        "latitude": 43.49791185100462,
+        "longitude": 5.428181787218768
+      } 
 
 
     },
@@ -200,8 +210,10 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.49791185100462,
-      "longitude": 5.428181787218768
+      "location":{
+        "latitude": 43.49791185100462,
+        "longitude": 5.428181787218768
+      }   
 
 
     },
@@ -227,8 +239,10 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.49791185100462,
-      "longitude": 5.428181787218768
+      "location":{
+        "latitude": 43.49791185100462,
+        "longitude": 5.428181787218768
+      }
 
 
     },
@@ -254,8 +268,10 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.49791185100462,
-      "longitude": 5.428181787218768
+      "location":{
+        "latitude": 43.49791185100462,
+        "longitude": 5.428181787218768
+      } 
 
 
     },
@@ -281,10 +297,10 @@ var drivers=[
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.49791185100462,
-      "longitude": 5.428181787218768
-
-
+      "location":{
+        "latitude": 43.49791185100462,
+        "longitude": 5.428181787218768
+      }
     },
     "driverName": "Théo F.",
     "driverPhone": "123 456 789",
@@ -317,8 +333,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+      
       }
 
     },
@@ -334,8 +353,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+     
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -374,8 +396,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+      
       }
 
     },
@@ -391,8 +416,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+  
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -431,8 +459,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -448,8 +479,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+     
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -488,8 +522,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -505,8 +542,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -545,8 +585,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -562,8 +605,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -602,8 +648,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -619,8 +668,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -659,8 +711,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+       
       }
 
     },
@@ -676,8 +731,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+    
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -717,8 +775,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -732,8 +793,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.56236384254165,
-      "longitude": 5.022300601986311,
+      "location":{
+        "latitude": 43.56236384254165,
+        "longitude": 5.022300601986311,
+      }
+      
     },
 
     "destinationNotes": "130 Rue Frédéric Joliot destinationNotes",
@@ -776,8 +840,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -791,8 +858,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.678028295666444,
-      "longitude": 5.203746784501976,
+      "location":{
+        "latitude": 43.678028295666444,
+        "longitude": 5.203746784501976,
+      }
+     
     },
     "destinationNotes": "130 Rue Frédéric Joliot destinationNotes",
     "completeAfter": "12:00",
@@ -834,8 +904,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -849,8 +922,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.53882443299274,
-      "longitude": 4.971200901974761,
+      "location":{
+        "latitude": 43.53882443299274,
+        "longitude": 4.971200901974761,
+      }
+    
     },
     "destinationNotes": "130 Rue Frédéric Joliot destinationNotes",
     "completeAfter": "12:00",
@@ -891,8 +967,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+      
       }
 
     },
@@ -906,8 +985,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.54000866400415,
-      "longitude": 5.066715774889157
+      "location":{
+        "latitude": 43.54000866400415,
+        "longitude": 5.066715774889157
+      }
+      
     },
     "destinationNotes": "130 Rue Frédéric Joliot destinationNotes",
     "completeAfter": "12:00",
@@ -950,8 +1032,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -965,8 +1050,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.56595329641774,
-      "longitude": 5.103236181614136,
+      "location":{
+        "latitude": 43.56595329641774,
+        "longitude": 5.103236181614136,
+      }
+      
     },
     "destinationNotes": "130 Rue Frédéric Joliot destinationNotes",
     "completeAfter": "12:00",
@@ -1007,8 +1095,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+     
       }
 
     },
@@ -1024,8 +1115,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -1064,8 +1158,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+      
       }
 
     },
@@ -1081,8 +1178,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -1121,8 +1221,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+       
       }
 
     },
@@ -1138,8 +1241,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -1178,8 +1284,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -1195,8 +1304,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -1235,8 +1347,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+        
       }
 
     },
@@ -1252,8 +1367,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+      
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -1292,8 +1410,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+       
       }
 
     },
@@ -1309,8 +1430,11 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
-      "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "location":{
+        "latitude": 43.67606024135647,
+        "longitude": 5.111508552894716
+      }
+     
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -1349,8 +1473,11 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
-        "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "location":{
+          "latitude": 43.67606024135647,
+          "longitude": 5.111508552894716
+        }
+       
       }
 
     },
@@ -1366,8 +1493,9 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
+      "location":{
       "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "longitude": 5.111508552894716}
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
@@ -1406,8 +1534,9 @@ var tasks= [
         "region":"france",
         "countryCode":"15898",
         "buildingAddress": "app 03",
+        "location":{
         "latitude": 43.67606024135647,
-        "longitude": 5.111508552894716
+        "longitude": 5.111508552894716}
       }
 
     },
@@ -1423,8 +1552,9 @@ var tasks= [
       "region":"france",
       "countryCode":"15898",
       "buildingAddress": "app 03",
+      "location":{
       "latitude": 43.67606024135647,
-      "longitude": 5.111508552894716
+      "longitude": 5.111508552894716}
     },
     "completeAfter": "12:00",
     "completedBefore": "12:30",
